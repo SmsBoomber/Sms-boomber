@@ -1,0 +1,5 @@
+ÖNCELİKLE MODÜLLERİ İNDİRDİRKTEN SONRA 
+
+python main.py yazarak acıcaksınız 
+
+sonra istediğiniz numarayı seçip acıcaksınız
